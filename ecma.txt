@@ -1,0 +1,42 @@
+... agar function ka ander aiga to ya rest operator hota hai 
+
+... agar ya  ,obj ,array, array of obj ,ka ander aya to isa hum spread operator kehta hai ya copy karta hai
+
+
+// expression function
+
+let foo = function(){
+console.log('haseeb')
+}
+
+
+         class 2
+// promise mai 3 stage hota hai 
+pending 
+resolve
+reject
+
+promice ka ander 2 parameter ata hai 
+res
+rej
+
+jab promise fullfill hota hai 
+.then 
+or ager rej hojai to 
+.catch
+
+// Destructuring 
+array , obj per chalta hai
+
+
+
+
+
+
+
+
+
+
+
+
+
