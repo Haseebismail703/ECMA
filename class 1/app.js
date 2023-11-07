@@ -100,14 +100,16 @@
 
 
 
+// default parmeter  
 
 
+// function foo(a=1,b=3){
+//     return a+b
+// }
 
-function foo(a){
-    return a+b
-}
+// console.log(foo())
 
-console.log(foo(2))
+
 
 
 
