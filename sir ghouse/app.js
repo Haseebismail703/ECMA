@@ -104,11 +104,28 @@
 
 
 
-let obj = {
-    name : 'Haseeb'
-}
+// let obj = {
+//     name : 'Haseeb'
+// }
 
-let obj1 = {...obj}
-obj1.name = 'Rehman'
-console.log(obj);
-console.log(obj1);
+// let obj1 = {...obj}
+// obj1.name = 'Rehman'
+// console.log(obj);
+// console.log(obj1);
+
+
+// let obj = {name : 'Haseeb',detail:{school:'Smit'}}
+// let obj1 = {...obj,detail:{...obj.detail}}
+
+// obj1.detail.school = 'Saylani'
+// console.log(obj1);
+
+// console.log(obj);
+
+
+
+
+
+
+ 
+
